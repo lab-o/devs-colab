@@ -56,7 +56,7 @@ Eh bien, c'est dommage pour vous déjà. Mais vous pouvez sans problème organis
 - Un vidéo projecteur ou un grand écran (PRO TIP: N'oubliez pas de vérifier que c'est la même prise que sur votre PC ou de prendre l'adaptateur adéquat)
 - Un "bureau" pour travailler et de quoi installer les "mangeurs" (canapé/table basse, c'est l'idéal)
 
-Si vous le faites, ça nous intéresse d'être au courant et d'avoir votre retour par la suite !
+Si vous le faites, ça nous intéresse d'être au courant et d'avoir votre retour par la suite ! Contactez Jérémy VIGNELLES par e-mail/hangouts : dev3i.vignelles sur le domaine le-lab-o.fr
 
 Notre ambition secrète : coder en réseau avec d'autres entreprises et d'autres incubateurs.
 
