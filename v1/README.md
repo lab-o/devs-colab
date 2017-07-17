@@ -18,3 +18,17 @@ Ce projet est conçu pour permettre à des enfants d'apprendre à taper au clavi
 - Affichage aléatoire d'un mot, récupération de la saisie utilisateur
 - Validation des erreurs lettre par lettre (rouge/vert)
 - Passage au mot suivant lors de la réussite avec tirage aléatoire (sans reprendre les mots déjà joués)
+
+### v1.1 - 2017-07-07
+
+Annulé par manque de participants
+
+### v1.1b - 2017-07-11
+
+7 participants
+
+- Création de l'image docker
+- Explications du fonctionnement de docker
+- Configuration d'Apache au sein du container
+- Configuration des paramètres de l'application pour permettre son utilisation dans un container
+- Utilisation de docker-compose
