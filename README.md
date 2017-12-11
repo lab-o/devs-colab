@@ -40,7 +40,7 @@ Payant | Une activité bénévole pour s'amuser le midi
 
 Les ateliers sont ouverts à tous les labonautes curieux ayant quelques compétences en développement.
 
-Pour dire "je suis intéressé par ce genre d'ateliers", je vous invite à remplir le [formulaire d'inscription](https://docs.google.com/a/le-lab-o.fr/forms/d/1a7G23KurACFsuQiNw_eCcOcLhBEdJcfVgi9_FGB-l8g/prefill)
+Pour dire "je suis intéressé par ce genre d'ateliers", je vous invite à remplir le [formulaire d'inscription](https://docs.google.com/forms/d/e/1FAIpQLSdaWjhY_CbvJFFzl4T5_Ep4q1Vug-ZVx3gZi4DuOZHsquUXhQ/viewform?usp=pp_url&entry.1687872595&entry.1868924023&entry.682200605&entry.445949651&entry.1897592509)
 (même si vous n'avez pas le temps ou que vous faites une allergie au langage utilisé pour certains ateliers). Ca nous permet d'organiser et de choisir les langages utilisés pour les projets futurs.
 
 Pour que tout le monde puisse passer au clavier, nous devons limiter le nombre de personnes par équipe. Cela signifie que nous pourrons à l'avenir faire plusieurs équipes en parallèle.
