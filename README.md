@@ -1,6 +1,6 @@
 # Devs cO'LAB
 
-![Des cO'LAB Logo](/images/logo_300.png)
+![Des cO'LAB Logo](/images/logo.png)
 
 *Note to English speakers : This is about a group of developers that code stuffs just for fun, hopefully once per month.
 Those projects are built on short sessions at lunch time.
