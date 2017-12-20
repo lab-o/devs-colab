@@ -32,3 +32,11 @@ Annulé par manque de participants
 - Configuration d'Apache au sein du container
 - Configuration des paramètres de l'application pour permettre son utilisation dans un container
 - Utilisation de docker-compose
+
+
+### v1.2 - 2017-12-12
+
+10 participants
+- Utilisation correcte du template twig
+- Ajout d'une classe User et des contrôleurs associés pour les gérer
+- Ajout d'une page choix de l'utilisateur et choix de la catégorie
