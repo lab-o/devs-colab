@@ -24,9 +24,9 @@ l'idée est d'afficher les tweets parlant du LAB'O et de ses startups sur une ca
 
 - 15h00 (peut être un peu dépassé) - On lève les mains du clavier! ça ne fonctionne pas mais tant pis, on a quand même bien avancé! Félicitations 👏 aux codeurs qui ont pu réaliser les tâches suivantes: 
 
-- Création du projet et "Hello World" en node.js (c'est la base)
-- Empaquetage de l'application dans un container docker
-- Installation de la lib node-twitter
-- Explications du fonctionnement de docker et de docker-compose
-- Récupération des tweets
-- Tentative de lancement d'elastic search (c'est pour l'instant un échec, les deux noeuds d'elastic ne communiquent pas)
+    - Création du projet et "Hello World" en node.js (c'est la base)
+    - Empaquetage de l'application dans un container docker
+    - Installation de la lib node-twitter
+    - Explications du fonctionnement de docker et de docker-compose
+    - Récupération des tweets
+    - Tentative de lancement d'elastic search (c'est pour l'instant un échec, les deux noeuds d'elastic ne communiquent pas)
