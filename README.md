@@ -68,3 +68,4 @@ Ainsi, Devs cO'LAB v1.2 est le troisième atelier du premier projet.
 Voici une liste des différentes versions:
 
 - [v1 : Apprentissage du clavier pour les enfants](/v1)
+- [v2 : #devscOLAB : cartographie des tweets](/v2)
