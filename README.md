@@ -19,7 +19,7 @@ Nous voulons nous ouvrir à d'autres technologies, d'autres façons de travaille
 ## Le concept
 Pour cela, nous avons pour objectif de réaliser un projet logiciel sur une ou plusieurs séances (nous espérons pouvoir organiser une séance par mois).
 
-Les séances se déroulent le midi (12h-15h), pour se retrouver dans la convivialité autour de pizzas (aviez-vous remarqué la pizza dans le logo?). BONUS : Si la pizza est payée par l'entreprise, c'est encore plus sympa comme évènement!
+Les séances se déroulent le midi (12h-15h), pour se retrouver dans la convivialité autour de pizzas et de burgers (aviez-vous remarqué le burger dans le logo?). BONUS : Si la pizza (ou le burger) est payée par l'entreprise, c'est encore plus sympa comme évènement!
 
 Le sujet est déterminé à l'avance et peut émaner des participants, des entreprises ou même du LAB'O lui-même pour aider au fonctionnement collectif de l'écosystème des startups. Il est toutefois interdit de faire commerce des solutions développées pendant les Devs cO'LAB.
 
