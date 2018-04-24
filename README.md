@@ -19,13 +19,13 @@ Nous voulons nous ouvrir à d'autres technologies, d'autres façons de travaille
 ## Le concept
 Pour cela, nous avons pour objectif de réaliser un projet logiciel sur une ou plusieurs séances (nous espérons pouvoir organiser une séance par mois).
 
-Les séances se déroulent le midi (12h-15h), pour se retrouver dans la convivialité autour de pizzas (aviez-vous remarqué la pizza dans le logo?). BONUS : Si la pizza est payée par l'entreprise, c'est encore plus sympa comme évènement!
+Les séances se déroulent le midi (12h-15h), pour se retrouver dans la convivialité autour de burgers (aviez-vous remarqué le burger dans le logo?). BONUS : Si le burger est payée par l'entreprise, c'est encore plus sympa comme évènement!
 
 Le sujet est déterminé à l'avance et peut émaner des participants, des entreprises ou même du LAB'O lui-même pour aider au fonctionnement collectif de l'écosystème des startups. Il est toutefois interdit de faire commerce des solutions développées pendant les Devs cO'LAB.
 
-Lors de la réalisation des ateliers, un développeur à la fois travaille sur un ordinateur, qui est projeté sur grand écran, pendant que les autres proposent des solutions, des méthodes pour gagner du temps (ou manger des pizzas), et ce tout en respectant celui qui travaille.
+Lors de la réalisation des ateliers, un développeur à la fois travaille sur un ordinateur, qui est projeté sur grand écran, pendant que les autres proposent des solutions, des méthodes pour gagner du temps (ou qu'ils mangent des burgers), et ce tout en respectant celui qui travaille.
 
-Tous les quarts d'heure, un nouveau codeur ! (Sinon celui qui travaille ne peut jamais manger sa pizza... le pauvre...)
+Tous les quarts d'heure, un nouveau codeur ! (Sinon celui qui travaille ne peut jamais manger son burger... le pauvre...)
 
 Récap sous forme de tableau (c'est moins fatiguant à lire):
 
@@ -51,7 +51,7 @@ Eh bien, c'est dommage pour vous déjà. Mais vous pouvez sans problème organis
 
 - Un petit projet fun
 - Une poignée de développeurs (ils n'ont pas besoin de tous connaître les technolgies utilisées tant qu'au moins une personne connaît à peu près.)
-- Des pizzas (+ de quoi s'essuyer les mains)
+- Des pizzas ou des burgers (+ de quoi s'essuyer les mains)
 - Un ordinateur portable
 - Un vidéo projecteur ou un grand écran (PRO TIP: N'oubliez pas de vérifier que c'est la même prise que sur votre PC ou de prendre l'adaptateur adéquat)
 - Un "bureau" pour travailler et de quoi installer les "mangeurs" (canapé/table basse, c'est l'idéal)
