@@ -22,7 +22,7 @@ l'idée est d'afficher les tweets parlant du LAB'O et de ses startups sur une ca
 - 12h28 - Début du briefing avec l'équipe. Les choses sérieuses vont enfin pouvoir commencer!
 - 12h30 - Premier codeur et "C'est qui qui a pris le burger Classik?"
 
-- 15h00 (peut être un peu dépassé) - On lève les mains du clavier! ça ne fonctionne pas mais tant pis, on a quand même bien avancé! Félicitations 👏 aux codeurs et à la codeuse qui ont pu réaliser les tâches suivantes: 
+- 15h00 (peut être un peu dépassé) - On lève les mains du clavier! ça ne fonctionne pas mais tant pis, on a quand même bien avancé! Félicitations 👏 aux codeurs et à la codeuse qui ont pu réaliser les tâches suivantes:
 
     - Création du projet et "Hello World" en node.js (c'est la base)
     - Empaquetage de l'application dans un container docker
@@ -30,3 +30,48 @@ l'idée est d'afficher les tweets parlant du LAB'O et de ses startups sur une ca
     - Explications du fonctionnement de docker et de docker-compose
     - Récupération des tweets
     - Tentative de lancement d'elastic search (c'est pour l'instant un échec, les deux noeuds d'elastic ne communiquent pas)
+
+### v2.1 - 2018-04-24
+
+#### Les préparatifs
+
+Le PC de secours de la dernière fois étant un PC fixe, ce n'était pas pratique à transporter. Il fallait donc trouver une solution pour faire fonctionner le PC portable dont le HDMI ne voulait pas se connecter à l'écran.
+
+Après une bonne demi-journée passée par l'équipe de DEV3I à essayer de diagnostiquer le problème, de la mise à jour de pilotes en passant par le démarrage sur une clé bootable linux (un message nous indiquait que l'EDID est invalide, bizarre...), nous avons dû nous rendre à l'évidence, il fallait trouver une autre solution.
+
+Alors voilà:
+
+![Un pc portable est connecté à un câble HDMI par une succession d'adaptateurs](20180416_115759.jpg)
+
+Par une suite de quelques adaptateurs, nous arrivons à afficher une image sur l'écran!
+
+- mini DisplayPort -> DisplayPort
+- DisplayPort -> DVI
+- DVI -> HDMI
+
+Nous étions prêts à effectuer la séance dans de bonnes conditions.
+En prime, le bug que nous avions eu sur l'autre ordinateur au lancement d'Elastic ne se produit pas sur cet ordinateur, Elastic fonctionne!
+
+#### La séance
+
+8 participant.e.s
+
+Objectif: Filtrer les tweets contenant de la géolocalisation et les enregistrer dans une base de données elastic.
+
+- Jérémy fait un rappel pour les nouveaux participants sur la première séance, les choix technologiques, explication de docker
+- "Je lance mon `docker-compose up` et ça marche" ... en fait non
+- Juste le temps de lancer une commande magique et ça refonctionne
+- "Ah mais attends, notre programme il se lance sans attendre elastic, du coup il peut pas s'y connecter"
+- Tentative avec wait-for-it.sh, échec
+- "Tant pis, on a qu'à le coder nous-même le wait-for-it"
+- "Et si on utilisait des promises en javascript pour ça?"
+- "Comment on fait pour utiliser des promises?"
+- Appel à un ami ( de la Wild Code School, merci à lui d'être venu!)
+- "OK, maintenant filtrons nos tweets"
+- Deux solutions:
+  - Demander tout et filtrer les résultats (= beaucoup de déchets dans ce qu'on demande)
+  - Trouver un moyen dans l'API tweeter de faire ça
+- Nous avons choisi de faire avec l'API twitter. Des gens sur internet suggéraient de demander les tweets autour d'un point, avec un très grand rayon. ça n'a pas marché, nous retournons à la solution 1
+- Tout est mélangé dans notre index.js, nous commençons à faire du refactoring pour organiser ça en modules (module d'ingestion pour twitter et module pour elastic)
+
+Le refactoring n'est pas encore fini, rendez-vous le 15/05
