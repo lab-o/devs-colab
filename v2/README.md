@@ -75,3 +75,16 @@ Objectif: Filtrer les tweets contenant de la géolocalisation et les enregistrer
 - Tout est mélangé dans notre index.js, nous commençons à faire du refactoring pour organiser ça en modules (module d'ingestion pour twitter et module pour elastic)
 
 Le refactoring n'est pas encore fini, rendez-vous le 15/05
+
+
+### v2.2 - 2018-05-15
+
+5 participants
+
+Objectifs: Finir le refactoring en cours, créer l'index avec son schéma dans la base de données elastic et insérer des données.
+
+- Le refactoring a été terminé.
+- Nous avons réussi à créer l'index et son mapping après plusieurs tentatives et de nombreuses lectures de la documentation de l'API elastic search
+- Implémentation du chargement des données avec l'API bulk d'elastic search.
+
+Aux dernières nouvelles, la donnée n'est pas insérée dans la base elastic et le code ne nous rend pas la main et n'affiche pas le nombre de tweets insérés. C'est très étrange, et il faudra que nous éclaircissions cela à la prochaine séance.
